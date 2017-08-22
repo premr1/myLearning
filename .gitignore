@@ -39,4 +39,5 @@ hs_err_pid*
 .idea/
 intellijAndGit/
 myLearning.iml
-pom.xml
+ .mvn/wrapper
+
