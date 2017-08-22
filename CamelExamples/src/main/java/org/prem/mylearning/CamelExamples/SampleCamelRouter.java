@@ -10,6 +10,9 @@ import org.springframework.stereotype.Component;
 public class SampleCamelRouter extends RouteBuilder {
 
     //timer:name[?options] period-> generate periodic events every period milliseconds.
+    // The stream: component provides access to the System.in,
+    // System.out and System.err streams as well as allowing streaming of file ex file?fileName=/foo/bar.txt
+    // and URL stream:url[?options]
 
     @Override
     public void configure() throws Exception {
