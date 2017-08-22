@@ -8,6 +8,9 @@ import org.springframework.stereotype.Component;
  */
 @Component
 public class SampleCamelRouter extends RouteBuilder {
+
+    //timer:name[?options] period-> generate periodic events every period milliseconds.
+
     @Override
     public void configure() throws Exception {
         from("timer:hello?period={{timer.period}}")
