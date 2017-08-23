@@ -41,3 +41,13 @@ intellijAndGit/
 myLearning.iml
  .mvn/wrapper
 
+CamelExamples/.mvn/wrapper/maven-wrapper.jar
+CamelExamples/mvnw
+CamelExamples/mvnw.cmd
+CamelExamples/src/main/resources/static/
+CamelExamples/src/main/resources/templates/
+CamelExamplesFTP/.mvn/
+CamelExamplesFTP/mvnw
+CamelExamplesFTP/mvnw.cmd
+CamelExamplesFTP/src/main/resources/static/
+CamelExamplesFTP/src/main/resources/templates/
