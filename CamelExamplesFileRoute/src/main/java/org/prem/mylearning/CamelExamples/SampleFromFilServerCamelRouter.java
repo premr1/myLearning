@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
  * Created by prem on 22/08/2017.
  */
 @Component
-public class SampleFromFTPServerCamelRouter extends RouteBuilder {
+public class SampleFromFilServerCamelRouter extends RouteBuilder {
 
 
     // camel route has two parts from & to
